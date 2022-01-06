@@ -1,5 +1,9 @@
-<img src="https://img.shields.io/badge/Portfolio-484747?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/dev.kyu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<div align="center">
+  
+# 🐶 devhkyu 🐶
 
+안녕하세요.
+머신러닝을 좋아하고 백엔드 엔지니어를 꿈꾸는 최형규입니다.
 
 ## 🛠 Skills
 
@@ -13,5 +17,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-333333?style=flat-square&logo=JetBrains&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-222222?style=flat-square&logo=Flask&logoColor=white"/>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhkyu&show_icons=true&theme=highcontrast)![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devhkyu&layout=compact&show_icons=true&theme=highcontrast&hide=Jupyter+Notebook)
+### Baekjoon Online Judge (...ing)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fabric93)](https://solved.ac/fabric93)
 
+<hr>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhkyu&show_icons=true&theme=highcontrast) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devhkyu&layout=compact&show_icons=true&theme=highcontrast&hide=Jupyter+Notebook)
+
+  <img src="https://img.shields.io/badge/Portfolio-484747?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/dev.kyu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </div>
