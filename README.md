@@ -5,6 +5,8 @@
 안녕하세요.
 머신러닝을 좋아하고 백엔드 엔지니어를 꿈꾸는 최형규입니다.
 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhkyu&show_icons=true&theme=highcontrast)
+  
 ## 🛠 Skills
 
 ### Platforms & Languages
@@ -20,13 +22,8 @@
 ### Baekjoon Online Judge
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fabric93)](https://solved.ac/fabric93)
-</div>
   
 <hr>
-  
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhkyu&show_icons=true&theme=highcontrast) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devhkyu&layout=compact&show_icons=true&theme=highcontrast&hide=Jupyter+Notebook)
   
   [![Github Pages](https://img.shields.io/badge/Portfolio-484747?style=flat-square&logo=GitHub&logoColor=white)](https://devhkyu.github.io/) [![Gmail](https://img.shields.io/badge/dev.kyu-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.hkyu@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004135995939) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hky.u/)
   </div>
