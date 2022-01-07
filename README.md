@@ -2,7 +2,7 @@
   
 # 🐶 devhkyu 🐶
 
-[![Github Pages](https://img.shields.io/badge/Portfolio-484747?style=flat-square&logo=GitHub&logoColor=white)](https://devhkyu.github.io/) [![Gmail](https://img.shields.io/badge/dev.kyu-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.hkyu@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004135995939) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hky.u/)
+[![Github Pages](https://img.shields.io/badge/Portfolio-484747?style=flat-square&logo=GitHub&logoColor=white)](https://devhkyu.github.io/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.hkyu@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004135995939) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hky.u/)
   
   
 안녕하세요.
